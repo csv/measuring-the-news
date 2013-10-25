@@ -24,3 +24,5 @@
 Measuring the News - Mozfest 2013
 =================================                                                
                                                       
+Links:
+- [Etherpad](https://festival.etherpad.mozilla.org/journalism-measuring-the-news-tracking-content-and-engagement)

@@ -1,0 +1,10 @@
+# Crud
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+code-examples/*/*.pyc
+
+# Data
+data/*/*.csv
+data/*/*.json
+
