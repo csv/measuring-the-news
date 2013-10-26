@@ -1,28 +1,13 @@
-```                                                              
-                                             _                
-  ___ ___     __     _ _   ___  _   _  _ __ (_)  ___     __   
-/' _ ` _ `\ /'__`\ /'_` )/',__)( ) ( )( '__)| |/' _ `\ /'_ `\ 
-| ( ) ( ) |(  ___/( (_| |\__, \| (_) || |   | || ( ) |( (_) | 
-(_) (_) (_)`\____)`\__,_)(____/`\___/'(_)   (_)(_) (_)`\__  | 
-                                                      ( )_) | 
-                                                       \___/' 
-  _    _                                              
- ( )_ ( )                                             
- | ,_)| |__     __       ___     __   _   _   _   ___ 
- | |  |  _ `\ /'__`\   /' _ `\ /'__`\( ) ( ) ( )/',__)
- | |_ | | | |(  ___/   | ( ) |(  ___/| \_/ \_/ |\__, \
- `\__)(_) (_)`\____)   (_) (_)`\____)`\___x___/'(____/
-
-------------------------------------------------------------
-    _____   _______               _______               __   
- _|  |  |_|   |   |.-----.-----.|    ___|.-----.-----.|  |_ 
-|_       _|       ||  _  |-- __||    ___||  -__|__ --||   _|
-|_       _|__|_|__||_____|_____||___|    |_____|_____||____|
-  |__|__|                                                   
-    
-```
 Measuring the News - Mozfest 2013
 =================================                                                
-                                                      
+
+This is a repository of code and data for `meausuring the news` at MozFest 2013.  
+
+## What's in here?
+`data/` contains data files and dictionaries for New York Times content, promotion, and performance data.
+<br/>
+`code-examples/` provides some code in `python` and `R` for extracting features from text, predicting pageviews, and visualizing relationships                 
+
+
 Links:
 - [Etherpad](https://festival.etherpad.mozilla.org/journalism-measuring-the-news-tracking-content-and-engagement)
