@@ -11,6 +11,7 @@ This is a repository of code and data for `meausuring the news` at MozFest 2013.
 ## A note on NYT data
 Since pageviews are a sensitive metric, we've elected to scale this number from 0 to 1.  This way we can study the variance across articles without compromising the interests of the New York Times.
 <br/>
+<br/>
 In addition, while you're free to explore and play around with this data, we'll ask that you do not publish a blogpost or article using the data without first running it by Brian Abelson ([@brianabelson](http://www.twitter.com/brianabelson)). Thanks!
 
 Links:
