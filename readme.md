@@ -1,7 +1,7 @@
 Measuring the News - Mozfest 2013
 =================================                                                
 
-This is a repository of code and data for `meausuring the news` at MozFest 2013.  
+This is a repository of code and data for `measuring the news` at MozFest 2013.  
 
 ## What's in here?
 `data/` contains data files and dictionaries for New York Times content, promotion, and performance data.
